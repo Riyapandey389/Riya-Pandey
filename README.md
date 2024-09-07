@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
-<h1 align="center">Hi 👋, I'm Riya Pandey</h1>
+<h1 align="center">Hi 🌻, I'm Riya Pandey</h1>
 <h3 align="center">A Passionate Software Developer Enthusiast</h3>
 <img  align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif">
 
