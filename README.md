@@ -1,17 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
-<h1 align="center">Hi 🌻, I'm Riya Pandey</h1>
-<h3 align="center">A Passionate Software Developer Enthusiast</h3>
+<h1 align="center">Hi🌻, Ich Bin Riya </h1>
+<h3 align="center">A Passionate Tech Enthusiast</h3>
 <img  align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyapandey389&label=Profile%20views&color=0e75b6&style=flat" alt="riyapandey389" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyapandey389" alt="riyapandey389" /></a> </p>
 
-- 🌱 I’m currently learning **HTML ,CSS ,JS**
+- 🌱 I’m currently learning **HTML ,CSS ,JS and Power BI**
 
 - 📫 How to reach me **riyapandey389@gmail.com**
 
-- ⚡ Fun fact **passionate about learning different languages**
+- ⚡ Fun fact **fueled by the energy of Dance **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
