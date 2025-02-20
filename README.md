@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyapandey389" alt="riyapandey389" /></a> </p>
 
-- 🌱 I’m currently learning **HTML ,CSS ,JS and Power BI**
+- 🌱 I’m currently learning and buliding my concepts in  **Data Science, AI/ML and Deep learning and aspiring for Research and Problem Solving**
 
 - 📫 How to reach me **riyapandey389@gmail.com**
 
